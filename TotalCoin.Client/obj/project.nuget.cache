@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r10/Rpnmd+3QCUcrOr/F6lW7zsWaqjzpkhdYQ/+IAPK/KyPPEy7z8iHn28ZtGNo7srSWDmYiMa0TgeB86T1btQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FacundoPascual\\Documents\\Self\\Total\\totalcoin-sdk-net6\\TotalCoin.Client\\TotalCoin.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FacundoPascual\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
